@@ -1,7 +1,7 @@
 # Image To PDF Converter
 Converts multiple images into a single PDF using Python
 
-### To properly execute the NBA Shot Chart Generator:
+### To properly execute the Image To PDF Converter:
 
 Download Python version 3 and PIP
 
